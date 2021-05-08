@@ -11,7 +11,5 @@ Projeto desenvolvido junto com a Rocketseat, com o Instrutor Mayk Brito
 Tem um detalhe não menos importante 
 as informações são salvar no Local Storage
 
-
-Uploading dev.Finance$ - Google Chrome 2021-05-07 23-41-20.mp4…
-
-
+Caso Tenha curiosidade em ver video acesse:
+https://www.linkedin.com/in/leandro-bezerra-/
