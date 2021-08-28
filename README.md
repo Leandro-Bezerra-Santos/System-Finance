@@ -1,10 +1,18 @@
 <div style="display:inline; list-style: none;" align="center">
+    <a href="#-Recursos">🚀 Recursos</a>
     <a href="#-Como-executar-o-projeto">🚀 Como executar o projeto</a>
     <a href="#-Pré-requisitos">📑 Pré-requisitos</a>
     <a href="#-Tecnologias">⚡ Tecnologias</a>
 </div>
 
 <img src="./assets/system.png">
+
+## **Recursos**
+* [X] Calcula seus ganhos, suas percas $$;
+* [X] Calcula quanto você tem no Total;
+* [X] Tem tabela para mostrar como o que você gastou ou ganhou;
+* [X] Coloca descrição, valor e data.
+
 
 ## **🚀 Como executar o projeto**
 ```bash
